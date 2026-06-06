@@ -1,31 +1,35 @@
-# Halo, Saya Zharii! 👋
+# Hi there, I'm Zahri Ramadhani! 👋
 
-Saya adalah seorang developer yang berfokus pada pengembangan web dan cloud computing. Saat ini saya sedang mendalami ekosistem JavaScript/TypeScript dan membangun solusi digital yang efisien, mulai dari platform trading hingga manajemen logistik.
+I am a final-year Informatics student at **Ahmad Dahlan University** with a strong passion for Web Development, Cloud Computing, and AI Engineering. Currently seeking full-time opportunities or part-time internships to apply my skills in real-world projects.
 
-## 🚀 Tentang Saya
-- 🔭 Sedang mengerjakan: **Capstone Project** (Cloud Computing) & **Zenix** (Trading Platform)
-- 🌱 Sedang mempelajari: Arsitektur Cloud & Optimasi Algoritma
-- 💬 Tanya saya tentang: JavaScript, TypeScript, dan Manajemen Armada Logistik
-- ⚡ Fakta unik: Saya suka mengamati alam (seperti Panda Merah di foto profil saya!) saat mencari inspirasi coding.
+## 🚀 About Me
+- 🔭 **Currently Working On:** Capstone Project Coding Camp 2026 (AI Engineer) & Social Media Automation (Affiliate & Engagement).
+- 💼 **Open For:** Full-time jobs or Part-time Internships.
+- 🌱 **Currently Learning:** AI Algorithms & Services, Backend Optimization/Deployment, and Trading Analysis (Fundamental, Technical, Sentiment, Money Flow).
+-  **Fun Fact:** I love asking random questions about how the world works!
 
-## ️ Tech Stack
-| Kategori | Teknologi |
+## 🛠️ Tech Stack
+| Category | Technologies |
 | :--- | :--- |
-| **Bahasa** | JavaScript, TypeScript, Python, HTML/CSS |
-| **Framework** | React, Node.js, Express |
-| **Tools** | Git, Docker, Jupyter Notebook |
-| **Lainnya** | REST API, Cloud Computing Basics |
+| **Languages** | JavaScript, TypeScript, Python, PHP, HTML/CSS |
+| **Frameworks** | Next.js, React, Node.js, Express.js, Flask, FastAPI |
+| **Databases** | PostgreSQL, MongoDB, Firestore, SQL |
+| **Tools & Cloud** | Git, Docker, Jupyter Notebook, Google Cloud Platform (GCP) |
+| **Other** | REST API, AI Integration |
 
-## 📊 Statistik GitHub
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ev-Zahrii&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ev-Zahrii&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ev-Zahrii&theme=tokyonight" alt="Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ev-Zahrii&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ev-Zahrii&theme=tokyonight" alt="Commit Languages" />
 </p>
 
-## 🤝 Mari Terhubung
-- [LinkedIn](https://linkedin.com/in/your-linkedin-username) <!-- Ganti dengan link LinkedIn mu -->
-- [Email](mailto:emailmu@example.com) <!-- Ganti dengan email mu -->
-- [Portofolio](https://your-portfolio-site.com) <!-- Opsional -->
+##  Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/zahri-ramadhani-681013274)
+- [Email](mailto:zrimrnid@gmail.com)
+- [Portfolio](https://your-portfolio-site.com) <!-- Ganti dengan link portofolio asli jika ada -->
 
 ---
 > *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
