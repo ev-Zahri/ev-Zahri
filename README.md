@@ -9,27 +9,47 @@ I am a final-year Informatics student at **Ahmad Dahlan University** with a stro
 -  **Fun Fact:** I love asking random questions about how the world works!
 
 ## 🛠️ Tech Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | JavaScript, TypeScript, Python, PHP, HTML/CSS |
-| **Frameworks** | Next.js, React, Node.js, Express.js, Flask, FastAPI |
-| **Databases** | PostgreSQL, MongoDB, Firestore, SQL |
-| **Tools & Cloud** | Git, Docker, Jupyter Notebook, Google Cloud Platform (GCP) |
-| **Other** | REST API, AI Integration |
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ev-Zahrii&theme=tokyonight" alt="Profile Summary" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ev-Zahrii&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ev-Zahrii&theme=tokyonight" alt="Commit Languages" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <br /><br />
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <br /><br />
+
+  <!-- Databases & Tools -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firestore-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-##  Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/zahri-ramadhani-681013274)
-- [Email](mailto:zrimrnid@gmail.com)
-- [Portfolio](https://your-portfolio-site.com) <!-- Ganti dengan link portofolio asli jika ada -->
-
----
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+## 📊 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/zahri-ramadhani-681013274" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:zrimrnid@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <!-- Ganti link portfolio jika sudah ada -->
+  <a href="https://your-portfolio-site.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
