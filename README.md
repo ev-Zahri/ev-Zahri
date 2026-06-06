@@ -6,7 +6,7 @@ I am a final-year Informatics student at **Ahmad Dahlan University** with a stro
 - 🔭 **Currently Working On:** Capstone Project Coding Camp 2026 (AI Engineer) & Social Media Automation (Affiliate & Engagement).
 - 💼 **Open For:** Full-time jobs or Part-time Internships.
 - 🌱 **Currently Learning:** AI Algorithms & Services, Backend Optimization/Deployment, and Trading Analysis (Fundamental, Technical, Sentiment, Money Flow).
--  **Fun Fact:** I love asking random questions about how the world works!
+- ℹ️ **Fun Fact:** I love asking random questions about how the world works!
 
 ## 🛠️ Tech Stack
 
@@ -37,6 +37,16 @@ I am a final-year Informatics student at **Ahmad Dahlan University** with a stro
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## 🎯 Detailed Language Statistics
+<div>
+  <br/>
+  <!-- Repos per Language & Commit Language -->
+  <p align="center">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ev-Zahri&theme=tokyonight&hide_border=true" alt="Repos per Language" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ev-Zahri&theme=tokyonight&hide_border=true" alt="Most Commit Language" />
+  </p>
+</div>
 
 ## 📊 Let's Connect
 <div align="center">
